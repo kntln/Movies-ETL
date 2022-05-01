@@ -14,7 +14,7 @@ A function were written to load the three data files, which are Wikipedia JSON, 
 Wikipedia data were extracted and transformed in order to merge it with the Kaggle data.
 
 ### Extract and Transform the Kaggle data
-The Kaggle metadata and MovieLens were also extracted and transformed. The merged wikipedia and kaggle data were then merged with MovieLens rating data as a DataFrame
+The Kaggle metadata and MovieLens were also extracted and transformed. The merged wikipedia and kaggle data were then merged with MovieLens rating data as a DataFrame.
 
 ### Create the Movie Database
 The merged DataFrame and MovieLens rating CSV data were added to a SQL database. 
